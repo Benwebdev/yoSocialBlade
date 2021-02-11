@@ -8,10 +8,9 @@ Usage:
 blSocialBlade('UC-lHJZR3Gqxm24_Vd_AJ5Yw').then(function (metrics) {
     console.log(metrics)
 })
-
+```
 
 Full script: 
-```
 
 ``` typescript
 
